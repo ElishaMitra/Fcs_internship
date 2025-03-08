@@ -26,3 +26,4 @@ Start the development server:
 
 npm start
 
+Deployment link on versel: https://fcs-internship-git-main-elishamitras-projects.vercel.app
