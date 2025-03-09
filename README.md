@@ -1,9 +1,6 @@
 # React + Vite
 **Setup Instructions**
 
-Clone the repository:
-
-git clone <repo-url>
 cd <project-folder>
 
 Install dependencies:
