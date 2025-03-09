@@ -12,6 +12,6 @@ npm install
 
 Start the development server:
 
-npm start
+npm run dev
 
 Deployment link on versel: https://fcs-internship-git-main-elishamitras-projects.vercel.app
